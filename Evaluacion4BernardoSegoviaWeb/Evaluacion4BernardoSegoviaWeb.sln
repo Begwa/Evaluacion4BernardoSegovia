@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluacion4BernardoSegoviaWeb", "Evaluacion4BernardoSegoviaWeb\Evaluacion4BernardoSegoviaWeb.csproj", "{1925E53C-D662-4160-AA53-8310DAE7D82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluacion4Datos", "Evaluacion4Datos\Evaluacion4Datos.csproj", "{78330153-0CDC-4F34-A921-8710C182AEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1925E53C-D662-4160-AA53-8310DAE7D82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1925E53C-D662-4160-AA53-8310DAE7D82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1925E53C-D662-4160-AA53-8310DAE7D82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1925E53C-D662-4160-AA53-8310DAE7D82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78330153-0CDC-4F34-A921-8710C182AEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78330153-0CDC-4F34-A921-8710C182AEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78330153-0CDC-4F34-A921-8710C182AEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78330153-0CDC-4F34-A921-8710C182AEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F2376C-AAD2-4B3D-8080-CA70552E98B5}
+	EndGlobalSection
+EndGlobal
